@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi👋, I'm Marcel
+
+My broad interests are physics and computer science. 
+Currently EM wave propagation and (computer vision) machine learning.
+
 
 <!--
 **ramlec1/ramlec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
