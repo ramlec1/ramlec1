@@ -3,7 +3,7 @@ Hi👋, I'm Marcel
 My broad interests are physics and computer science. 
 Currently EM wave propagation and (computer vision) machine learning.
 
-More about me at https://ramlec.pythonanywhere.com/eng
+More about me at https://ramlec.pythonanywhere.com/eng (made without AI :P)
 
 
 <!--
